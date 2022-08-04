@@ -3,8 +3,8 @@ Hi there 👋
 <br/>
 
 - 🔭 I’m currently working in Infosys as a Test Engineer
+- 👩🏼‍💻 I'm an **Aspiring Front End Developer**
 - 🌱 I’m currently learning **HTML,CSS & JS**
 - 📫 How to reach me: **divyakonala99@gmail.com**
-- ⚡ Fun fact: I am afraid of water not while bathing🤪 🥶
+- ⚡ Fun fact: I am afraid of heights. But, want to climb Mount Everest🤪🥶
 - ✍️ Hobbies,Interests:✨ I love watching movies ✨ @MarvelFandom ✊🔥
--->
