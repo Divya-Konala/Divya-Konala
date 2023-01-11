@@ -2,7 +2,7 @@ Hi there 👋
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+I'm+Divya+Konala!;" style="max-width: 100%;">
 <br/>
 
-<img align="right" width="30%" height="30%" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966" alt="Coding" />
+<img align="right" width="40%" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Coding" />
 <br/>
 
 - 🔭 I’m currently working in Infosys as a Test Engineer
