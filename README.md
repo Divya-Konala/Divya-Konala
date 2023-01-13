@@ -21,6 +21,6 @@ Hi there 👋
 <br/>
 <hr>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Konala&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Divya-Konala&show_icons=true&locale=en&theme=dark"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-Konala&theme=jolly" /><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Divya-Konala&show_icons=true&theme=jolly" />
 </p>
