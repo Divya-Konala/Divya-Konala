@@ -3,7 +3,7 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=I'm+Divya+Konala!;" style="max-width: 100%;">
 <br/>
 
-<img align="right" width="40%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
+<img align="right" width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
 <br/>
 
 - 🔭 I’m currently working in Infosys as a Test Engineer
@@ -12,7 +12,10 @@
 - ⚡ Fun fact: I am afraid of heights. But, want to climb Mount Everest🤪🥶
 - ✍️ Hobbies,Interests:✨ I love watching movies ✨ @MarvelFandom ✊🔥
 
+<br/>
+
 ## Connect with me:
+
 <br/>
 <div align="center">
 <a href="https://divya-portfolio.vercel.app/">
