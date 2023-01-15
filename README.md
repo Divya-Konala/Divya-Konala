@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
 <a href="https://www.instagram.com/curly_queen.135/">
-<img src="https://img.shields.io/badge/Instagram-fb3958?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 </div>
 <br/>
