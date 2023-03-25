@@ -7,7 +7,7 @@
 <br/>
 
 - 👩🏼‍💻 I'm an **Aspiring Front End Developer**
-- 🌱 I’m currently learning **HTML,CSS & JS**
+- 🌱 I’m currently learning **HTML, CSS, JS & ReactJS**
 - ⚡ Fun fact: I am afraid of heights. But, want to climb Mount Everest🤪🥶
 - ✍️ Hobbies,Interests:✨ I love watching movies ✨ @MarvelFandom ✊🔥
 
