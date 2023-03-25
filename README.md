@@ -6,7 +6,6 @@
 <img align="right" width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
 <br/>
 
-- 🔭 I’m currently working in Infosys as a Test Engineer
 - 👩🏼‍💻 I'm an **Aspiring Front End Developer**
 - 🌱 I’m currently learning **HTML,CSS & JS**
 - ⚡ Fun fact: I am afraid of heights. But, want to climb Mount Everest🤪🥶
