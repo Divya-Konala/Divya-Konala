@@ -6,10 +6,10 @@
 <img align="right" width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
 <br/>
 
-- 👩🏼‍💻 I'm an **Front End Developer**
-- 🌱 I’m currently learning **HTML, CSS, JS & ReactJS**
-- ⚡ Fun fact: I am afraid of heights. But, want to climb Mount Everest🤪🥶
-- ✍️ Hobbies,Interests:✨ I love watching movies ✨ @MarvelFandom ✊🔥
+- 👩🏼‍💻 Hey there! I’m a React Developer who talks in components and thinks in hooks.
+- 💻 My superpowers? React.js, TypeScript, and Next.js — basically, I break things… then fix them with style.
+- ⚡ Fun fact: I’m terrified of heights… but still have Mount Everest on my bucket list. Call it ambition or madness 🤪🥶
+- 🎬 Hobbies & Interests: Movie buff by day, Marvel fangirl by night. If it’s got explosions and witty one-liners, I’m in ✊🔥
 
 <br/>
 
